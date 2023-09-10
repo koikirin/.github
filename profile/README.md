@@ -2,6 +2,12 @@
 
 This is Freeze_Kirin, mainly a mahjong related bot powered by [Koishi.js](https://github.com/koishijs/koishi)
 
+<details>
+<summary>History version</summary>
+The original version is written in Python powered by self-written Ajenga, which is lacking multi platform support and no logger maintained.
+Current progress of refactoring: 80%
+</details>
+
 The organization contains plugins, scripts and tools for deployment and development. A simple guide is provided here.
 
 ### Plugins
