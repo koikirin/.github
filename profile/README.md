@@ -5,7 +5,7 @@ This is Freeze_Kirin, mainly a mahjong related bot powered by [Koishi.js](https:
 <details>
 <summary>History version</summary>
 The original version is written in Python powered by self-written Ajenga, which is lacking multi platform support and no logger maintained.
-Current progress of refactoring: 80%
+Current progress of refactoring: 95%
 </details>
 
 The organization contains plugins, scripts and tools for deployment and development. A simple guide is provided here.
@@ -25,5 +25,10 @@ The organization contains plugins, scripts and tools for deployment and developm
 - [tziakcha-scripts](https://github.com/koikirin/tziakcha-scripts)
 
 ### Utils / Common Plugins
-- [adapter-forward](https://github.com/koikirin/koishi-plugin-adapter-forward)
+- [permissions](https://github.com/koikirin/koishi-plugin-permissions)
 - [ping](https://github.com/koikirin/koishi-plugin-ping)
+- [alias](https://github.com/koikirin/koishi-plugin-alias)
+- [migrate-database](https://github.com/koikirin/koishi-plugin-migrate-database)
+
+### Development
+- [yakumo](https://github.com/koikirin/yakumo) - unofficial yakumo extensions
